@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Robot\bin\Debug\Robot.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Robot\bin\Debug\Robot.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Robot\bin\Debug\Robot.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Robot\obj\Debug\Robot.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Robot\obj\Debug\Robot.pdb

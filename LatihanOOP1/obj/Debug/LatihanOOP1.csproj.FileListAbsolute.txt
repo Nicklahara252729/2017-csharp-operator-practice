@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanOOP1\bin\Debug\LatihanOOP1.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanOOP1\bin\Debug\LatihanOOP1.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanOOP1\bin\Debug\LatihanOOP1.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanOOP1\obj\Debug\LatihanOOP1.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanOOP1\obj\Debug\LatihanOOP1.pdb

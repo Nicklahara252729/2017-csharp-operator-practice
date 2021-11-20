@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\LatihanOperator\LatihanOperator\bin\Debug\LatihanOperator.exe.config
+c:\users\user\documents\visual studio 2013\Projects\LatihanOperator\LatihanOperator\obj\Debug\LatihanOperator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\LatihanOperator\LatihanOperator\bin\Debug\LatihanOperator.exe
+c:\users\user\documents\visual studio 2013\Projects\LatihanOperator\LatihanOperator\bin\Debug\LatihanOperator.pdb
+c:\users\user\documents\visual studio 2013\Projects\LatihanOperator\LatihanOperator\obj\Debug\LatihanOperator.exe
+c:\users\user\documents\visual studio 2013\Projects\LatihanOperator\LatihanOperator\obj\Debug\LatihanOperator.pdb

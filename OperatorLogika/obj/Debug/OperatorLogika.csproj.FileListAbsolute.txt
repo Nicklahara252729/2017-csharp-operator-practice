@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\OperatorLogika\bin\Debug\OperatorLogika.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\OperatorLogika\bin\Debug\OperatorLogika.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\OperatorLogika\bin\Debug\OperatorLogika.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\OperatorLogika\obj\Debug\OperatorLogika.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\OperatorLogika\obj\Debug\OperatorLogika.pdb

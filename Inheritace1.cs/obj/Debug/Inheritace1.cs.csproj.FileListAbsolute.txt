@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Inheritace1.cs\bin\Debug\Inheritace1.cs.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Inheritace1.cs\bin\Debug\Inheritace1.cs.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Inheritace1.cs\bin\Debug\Inheritace1.cs.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Inheritace1.cs\obj\Debug\Inheritace1.cs.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Inheritace1.cs\obj\Debug\Inheritace1.cs.pdb

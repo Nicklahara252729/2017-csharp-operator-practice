@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanWhileDo\bin\Debug\LatihanWhileDo.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanWhileDo\bin\Debug\LatihanWhileDo.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanWhileDo\bin\Debug\LatihanWhileDo.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanWhileDo\obj\Debug\LatihanWhileDo.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\LatihanWhileDo\obj\Debug\LatihanWhileDo.pdb

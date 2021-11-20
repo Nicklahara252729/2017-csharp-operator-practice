@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\PerulanganFor\bin\Debug\PerulanganFor.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\PerulanganFor\bin\Debug\PerulanganFor.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\PerulanganFor\bin\Debug\PerulanganFor.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\PerulanganFor\obj\Debug\PerulanganFor.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\PerulanganFor\obj\Debug\PerulanganFor.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Stack\bin\Debug\Stack.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Stack\bin\Debug\Stack.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Stack\bin\Debug\Stack.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Stack\obj\Debug\Stack.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\Stack\obj\Debug\Stack.pdb

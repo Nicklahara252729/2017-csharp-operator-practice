@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\KondisiSwitchCase\bin\Debug\KondisiSwitchCase.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\KondisiSwitchCase\bin\Debug\KondisiSwitchCase.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\KondisiSwitchCase\bin\Debug\KondisiSwitchCase.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\KondisiSwitchCase\obj\Debug\KondisiSwitchCase.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\KondisiSwitchCase\obj\Debug\KondisiSwitchCase.pdb

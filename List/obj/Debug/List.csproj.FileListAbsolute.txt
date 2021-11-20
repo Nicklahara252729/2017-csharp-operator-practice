@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\List\bin\Debug\List.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\List\bin\Debug\List.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\List\bin\Debug\List.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\List\obj\Debug\List.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanOperator\List\obj\Debug\List.pdb
